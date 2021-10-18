@@ -1,8 +1,8 @@
  name : Firebase Deployment
 
 
-on:
-  push:
+on :  
+   push:
     branches:
       - main
 
